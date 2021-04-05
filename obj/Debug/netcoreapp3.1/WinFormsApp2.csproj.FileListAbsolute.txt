@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Form1.resources
+C:\Users\ASUS\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\ImageSeer.exe
+C:\Users\ASUS\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\ImageSeer.deps.json
+C:\Users\ASUS\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\ImageSeer.runtimeconfig.json
+C:\Users\ASUS\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\ImageSeer.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\ImageSeer.dll
+C:\Users\ASUS\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\ImageSeer.pdb
+C:\Users\ASUS\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\ImageSeer.dll
+C:\Users\ASUS\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\ImageSeer.pdb
